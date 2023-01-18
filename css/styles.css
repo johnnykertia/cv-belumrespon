@@ -1,0 +1,163 @@
+body {
+        margin: 0;
+        text-align: center;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 100%;
+}
+
+.pro {
+        text-decoration: underline;
+}
+
+h1 {
+        color: #66BFBF;
+        margin: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 5rem;
+        line-height: 2;
+}
+
+h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        color: #66BFBF;
+        font-weight: normal;
+}
+
+h3 {
+        font-family: 'Montserrat', sans-serif;
+        color: #11999E;
+}
+
+a {
+        color: #11999E;
+}
+
+.top-container {
+        background-color: #e4f5f9;
+        position: relative;
+        padding-top: 85px;
+}
+
+.midle-container {
+        margin: 100px 0;
+}
+
+.bottom-container {
+        background-color: #66BFBF;
+        padding: 50px 0 0px;
+}
+
+a {
+        margin: 30px 30px;
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
+        font-size: 1.2rem;
+        font-weight: bold;
+}
+
+a:hover{
+        color: #e4f5f9;
+}
+
+.top-cloud {
+        position: absolute;
+        right: 300px;
+        top: 50px;
+}
+
+.bottom-cloud {
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+}
+
+p {
+        line-height: 2;
+}
+
+.copyright{
+        color: #eaf6f6;
+        font-size: 0.75rem;
+        padding: 20px 0;
+}
+
+hr {
+        border: dotted 7px;
+        border-bottom: none;
+        color: #cef9f9;
+        width: 10%;
+        margin: 80px auto 80px auto;
+}
+
+.profile {
+        width: 50%;
+        margin: auto;
+        line-height: 2;
+}
+
+.intro {
+        width: 50%;
+        margin: -20px auto 0 auto;
+}
+
+.img-profile {
+        width: 25%;
+        margin-bottom: -20px;
+}
+
+.description-profile {
+        margin-top: -20px;
+}
+
+.skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+}
+
+.javascript-class {
+        width: 20%;
+        float: left;
+        margin-right: 30px;
+}
+
+.reactjs-class {
+        width: 20%;
+        float: right;
+        margin-left: 30px;
+}
+
+.figma-class {
+        width: 20%;
+        float: left;
+        margin-right: 30px;
+}
+
+.desc-contact {
+        width: 30%;
+        margin: 40px auto 60px auto;
+}
+
+.btn {
+        background: #36acf5;
+        background-image: -webkit-linear-gradient(top, #36acf5, #5a9bc4);
+        background-image: -moz-linear-gradient(top, #36acf5, #5a9bc4);
+        background-image: -ms-linear-gradient(top, #36acf5, #5a9bc4);
+        background-image: -o-linear-gradient(top, #36acf5, #5a9bc4);
+        background-image: linear-gradient(to bottom, #36acf5, #5a9bc4);
+        -webkit-border-radius: 25;
+        -moz-border-radius: 25;
+        border-radius: 25px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+
+.btn:hover {
+        background: #176799;
+        text-decoration: none;
+}
